@@ -1,0 +1,21 @@
+{
+  "name": "express-api-lab",
+  "version": "1.0.0",
+  "description": "For this lab, you will be creating a backend for a completed frontend application. You will be working on an app called \"GAphy\" which will display a bunch of Gifs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:salmannaseer/express-api-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.10"
+  }
+}
